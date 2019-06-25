@@ -8,7 +8,7 @@ Files and media pertaining to the Foucault Pendulum currently on display in Loom
 co-authored by Marco Palella, marco.palella@comcast.net
 
 <h1>What is the Foucault Pendulum?</h1>
-The Foucault Pendulum is a favorite of Muesuems and Universities all around the world. The experiment, first designed and conducted by Leon Foucault, was demonstrated in the Pantheon of Paris. The Experiment is demonstrates the effects of Earth's rotation, and when conducted across multiple latitudes reveals the spherical geometry of the earth. 
+The Foucault Pendulum is a favorite of Muesuems and Universities all around the world. The experiment, first designed and conducted by Leon Foucault, was demonstrated in the Pantheon of Paris in 1851. The Experiment demonstrates the effects of Earth's rotation, and when conducted across multiple latitudes reveals the spherical geometry of the earth. 
 
 All that is done is hang a large pendulum bulb from a tall ceiling and let the pendulum go with as little tangential velocity as possible, which is often completed by burning a string between the bulb and a bannister. The pendulum will then move back and forth; however, if one marks the swaying of the bulb over time it is revealed that the bulb precesses around a circle throughout the course of a day.
 
