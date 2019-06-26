@@ -27,7 +27,7 @@ void loop() {
     digitalWrite(RELAY, LOW);
     digitalWrite(LEDPIN,LOW);
     //delay(500); //delay to turn hall effect off
-    delay(14000); //delay to turn hall effect off, and keep off for a long time because we want the pendulum to precess (delays about 5 passes)
+    delay(8000); //delay to turn hall effect off, and keep off for a long time because we want the pendulum to precess (delays about 5 passes)
   }
   //digitalWrite(RELAY, HIGH);
 }
